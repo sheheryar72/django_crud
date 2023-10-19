@@ -7,6 +7,7 @@ consist of 3 small applications:
 - books\_fbv: Implement CRUD using FBV (Function Based Views).
 - books\_fbv\_user: add user interaction to books\_fbv example.
 
+Sheheryar Izhar
 
 ## Install Required Packages
 
